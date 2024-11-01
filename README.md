@@ -1,4 +1,3 @@
-Here’s an updated README file with key inferences added:
 
 ---
 
@@ -39,4 +38,3 @@ This project is licensed under the MIT License.
 
 --- 
 
-This README now includes the core insights along with concise project details. Let me know if more inferences should be added!
