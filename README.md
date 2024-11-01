@@ -9,7 +9,6 @@ This project develops a dynamic in-game advertising platform delivering relevant
 ## Key Inferences
 - **Market Need**: In-game advertising offers brands a unique way to reach highly engaged audiences. However, traditional ads can disrupt gameplay, leading to frustration and lower engagement. This platform addresses this by seamlessly integrating standalone ads tailored to player preferences.
 - **Player & Ad Relevance**: The platform clusters players based on behavior, targeting ads that match their interests without interrupting gameplay, leading to a more immersive experience.
-- **Monetization Strategy**: Includes CPM, CPC, and CPA models, along with premium subscriptions for developers and advertisers, ensuring multiple revenue streams.
 
 ## Repository Contents
 
