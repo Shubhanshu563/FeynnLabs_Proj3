@@ -1,0 +1,10 @@
+pandas
+json
+numpy
+matplotlib
+seaborn
+scikit-learn
+networkx
+plotly
+scipy
+kneed
